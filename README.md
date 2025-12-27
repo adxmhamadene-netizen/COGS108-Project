@@ -1,6 +1,5 @@
 This is your group repo for your final project for COGS108.
 
-This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
 
 Template notebooks for each component are provided. The numbers on the notebook filenames provides the order things are due.  See the syllabus for the due dates in your quarter.
 
